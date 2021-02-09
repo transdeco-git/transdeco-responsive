@@ -1,0 +1,16 @@
+# Site settings
+title: "Transdeco"
+email:
+author:
+description: "Taidegalleria ja taidegrafiikan verkkokauppa"
+url:
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: assets/css
+
+# Social icons
+show_social_icons: true
+github_username: someGithubUser
+twitter_username: someTwitterUser
