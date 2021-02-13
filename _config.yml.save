@@ -19,7 +19,6 @@ twitter_username: someTwitterUser
 exclude: [pub.sh]
 
 # Collections
-collections_dir: collections
 collections:
   animals:
     output: true
