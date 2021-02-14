@@ -18,6 +18,13 @@ twitter_username: someTwitterUser
 # Configuration options
 exclude: [pub.sh]
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-strapi
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
+
 # Collections
 collections_dir: collections
 collections:
@@ -25,3 +32,14 @@ collections:
     output: true
     permalink: animals/:name
     layout: animal
+
+# Strapi
+strapi:
+  # Your API endpoint (optional, default to http://localhost:1337)
+  #endpoint: http://localhost:1337
+  endpoint: https://strapi.transdeco.fi
+  collections:
+    taiteilijas:
+      type: taiteilijas
+    teos:
+      type: teos
