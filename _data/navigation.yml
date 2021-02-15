@@ -1,0 +1,14 @@
+- name: Aloitussivu
+  url: /
+
+- name: Taiteilijat
+  url: /taiteilijat/
+
+- name: Tilaaminen
+  url: /tilaaminen/
+
+- name: Galleria
+  url: /galleria/
+
+- name: Yhteydenotot
+  url: /yhteydenotot/
