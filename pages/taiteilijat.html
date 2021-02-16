@@ -5,3 +5,23 @@ layout: aloitussivu
 
 <h1>Transdeco - Galleria ja Verkkokauppa</h1>
 <p class="lead">Taiteilijat</p>
+
+<style>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  text-align: left;
+  padding-right: 25px;
+}
+</style>
+
+{% assign artists = strapi.collections.taiteilijas | sort:"Aakkostus" %}
+<div style="overflow-x:auto;">
+  <table class="center">
+  {% tablerow taiteilija in artists cols:6 %}
+    {{ taiteilija.Nimi }}
+  {% endtablerow %}
+  </table>
+</div>

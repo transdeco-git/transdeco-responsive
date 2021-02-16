@@ -41,5 +41,7 @@ strapi:
   collections:
     taiteilijas:
       type: taiteilijas
+      layout: taiteilija.html
+      #output: true
     teos:
       type: teos

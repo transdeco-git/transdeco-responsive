@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "fi" }}">
-  {% include head.html %}
   <body>
-    {% include header_blank.html %}
-    {{ content }}
-    {% include footer.html %}
+
+    <div class="home">
+      <h1 class="page-heading">Restaurants</h1>
+      {% if strapi.collections.taiteilijas.size > 0 %}
+      <ul>
+        {% for taiteilija in strapi.collections.taiteilijas %}
+        <li>{{ taiteilija.Etunimi }} {{ taiteilija.Sukunimi }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+
   </body>
 </html>
