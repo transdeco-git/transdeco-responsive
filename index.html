@@ -20,7 +20,7 @@ td {
 <div style="overflow-x:auto;">
   <table class="center">
   {% tablerow taiteilija in artists cols:6 %}
-    {{ taiteilija.Nimi }}
+    {{ taiteilija.Nimi | replace: ' ', '&nbsp;' }}
   {% endtablerow %}
   </table>
 </div>
