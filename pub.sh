@@ -14,3 +14,4 @@ git add -A
 git commit -am "Update"
 git push https://github.com/transdeco-git/transdeco-git.github.io.git gh-pages
 cd ..
+git push --dry-run
