@@ -17,10 +17,11 @@ td {
 </style>
 
 {% assign artists = strapi.collections.taiteilijas | sort:"Aakkostus" %}
-<div style="overflow-x:auto;">
-  <table class="center">
+<div class="table-responsive">
+  <table class="table center table-borderless bg-light">
   {% tablerow taiteilija in artists cols:6 %}
     {{ taiteilija.Nimi | replace: ' ', '&nbsp;' }}
   {% endtablerow %}
   </table>
 </div>
+

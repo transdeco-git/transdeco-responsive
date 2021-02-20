@@ -6,3 +6,4 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"  # Latest 1.7.0
+gem "jekyll-watch"

@@ -84,6 +84,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed (~> 0.15)
   jekyll-strapi (~> 0.1)
+  jekyll-watch
   webrick (~> 1.7)
 
 BUNDLED WITH
