@@ -36,12 +36,16 @@ collections:
 # Strapi
 strapi:
   # Your API endpoint (optional, default to http://localhost:1337)
-  #endpoint: http://localhost:1337
-  endpoint: https://strapi.transdeco.fi
+  endpoint: http://localhost:1337
+  #endpoint: https://strapi.transdeco.fi
   collections:
     taiteilijas:
       type: taiteilijas
+      permalink: taiteilijas/:Aakkostus
       layout: taiteilija.html
-      #output: true
+      output: true
     teos:
       type: teos
+      permalink: teos/:teosnimi
+      layout: taiteilija.html
+      output: true

@@ -1,17 +1,49 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "fi" }}">
-  <body>
+---
+layout: aloitussivu
+---
 
-    <div class="home">
-      <h1 class="page-heading">Restaurants</h1>
-      {% if strapi.collections.taiteilijas.size > 0 %}
-      <ul>
-        {% for taiteilija in strapi.collections.taiteilijas %}
-        <li>{{ taiteilija.Etunimi }} {{ taiteilija.Sukunimi }}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-    </div>
+<style>
+/* Links */
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
 
-  </body>
-</html>
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ad1216;
+}
+
+a:active {
+  text-decoration: none;
+  color: #000000;
+}
+</style>
+
+
+{% assign artist = page.url %}
+{% assign artist = artist | slice: 13, 40 %}
+
+{% assign artists=strapi.collections.taiteilijas | where:"Aakkostus", artist %}
+{% for artist in artists %}
+  <h1>{{ artist.Nimi }}, (s. {{ artist.syntymavuosi }})</h1>
+  <div>
+  {{ artist.esittely }}
+  </div>
+{% endfor %}
+
+{% assign teokset=strapi.collections.teos | where:"title", artist  %}
+<div>
+<ul class="list-group">
+{% for teos in teokset %}
+  <li class="list-group-item">
+    <a href="">{{ teos.teosnimi }}</a>
+  </li>
+{% endfor %}
+</ul>
+</div>

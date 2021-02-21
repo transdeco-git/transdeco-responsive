@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fi" }}">
+  <body>
+
+  <h1>Taiteilija</h1>
+  site.nimi {{ site.nimi }}<br>
+  page.nimi {{ page.nimi}}<br> 
+  nimi {{ nimi }}<br>
+  permalink {{ permalink }}<br>
+  page.Aakkostus {{ page.Aakkostus }}<br>
+
+{% assign artists=strapi.collections.taiteilijas | where:"Aakkostus"  %}
+{% for artist in artists %}
+  {{ artist.Nimi }}
+{% endfor %}
+
+
+  </body>
+</html>

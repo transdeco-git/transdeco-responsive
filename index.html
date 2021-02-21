@@ -14,13 +14,34 @@ td {
   text-align: left;
   padding-right: 25px;
 }
+
+/* Links */
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ad1216;
+}
+
+a:active {
+  text-decoration: none;
+  color: #000000;
+}
 </style>
 
 {% assign artists = strapi.collections.taiteilijas | sort:"Aakkostus" %}
 <div class="table-responsive">
-  <table class="table center table-borderless bg-light">
+  <table class="table center table-sm">
   {% tablerow taiteilija in artists cols:6 %}
-    {{ taiteilija.Nimi | replace: ' ', '&nbsp;' }}
+    <a href="/taiteilijas/{{ taiteilija.Aakkostus }}.html">{{ taiteilija.Nimi | replace: ' ', '&nbsp;' }}</a>
   {% endtablerow %}
   </table>
 </div>
