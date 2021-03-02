@@ -1,5 +1,5 @@
 ---
-layout: aloitussivu
+layout: default
 ---
 
 <style>
@@ -27,22 +27,22 @@ a:active {
 
 
 {% assign artist = page.url %}
-{% assign artist = artist | slice: 13, 40 %}
+{% assign artist = artist | slice: 9, 40 %}
 
-{% assign artists=strapi.collections.taiteilijas | where:"Aakkostus", artist %}
-{% for artist in artists %}
-  <h1>{{ artist.Nimi }}, (s. {{ artist.syntymavuosi }})</h1>
+{% assign taiteilijat=strapi.collections.artists | where:"tunniste", artist %}
+{% for taiteilija in taiteilijat %}
+  <h1>{{ taiteilija.etunimi }}&nbsp;{{ taiteilija.sukunimi }}, (s. {{ taiteilija.syntymavuosi }})</h1>
   <div>
-  {{ artist.esittely }}
+  {{ taiteilija.esittely }}
   </div>
 {% endfor %}
 
-{% assign teokset=strapi.collections.teos | where:"title", artist  %}
+{% assign teokset=strapi.collections.works | where:"tait_tunniste", artist  %}
 <div>
 <ul class="list-group">
 {% for teos in teokset %}
   <li class="list-group-item">
-    <a href="">{{ teos.teosnimi }}</a>
+    <a href="/works/{{ teos.tunniste }}">{{ teos.teosnimi }}</a>
   </li>
 {% endfor %}
 </ul>

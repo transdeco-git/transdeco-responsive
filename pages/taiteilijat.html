@@ -1,6 +1,6 @@
 ---
 permalink: /taiteilijat/
-layout: aloitussivu
+layout: default
 ---
 
 <h1>Transdeco - Galleria ja Verkkokauppa</h1>
@@ -17,11 +17,11 @@ td {
 }
 </style>
 
-{% assign artists = strapi.collections.taiteilijas | sort:"Aakkostus" %}
+{% assign artists = strapi.collections.artists | sort:"tunniste" %}
 <div style="overflow-x:auto;">
   <table class="table center table-borderless bg-light">
   {% tablerow taiteilija in artists cols:6 %}
-    {{ taiteilija.Nimi | replace: ' ', '&nbsp;' }}
+    {{ artist.etunimi }}&nbsp;{{ artist.sukunimi }}
   {% endtablerow %}
   </table>
 </div>

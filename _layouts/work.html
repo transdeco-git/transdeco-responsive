@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% assign work = page.url %}
+{% assign work = work | slice: 7, 40 %}
+
+{% assign teos=strapi.collections.works | where:"tunniste", work  %}
+<div style="text-align:left">
+Taiteilija: {{ teos[0].tait_tunniste }}<br>
+Tuotenumero: {{ teos[0].tuotenumero }}<br>
+Teosnimi: {{ teos[0].teosnimi }}<br>
+Tunniste: {{ teos[0].tunniste }}<br>
+Hinta: {{ teos[0].hinta }}<br>
+Korkeus: {{ teos[0].korkeus }}<br>
+Leveys: {{ teos[0].leveys }}<br>
+Tekniikka: {{ teos[0].tekniikka }}<br>
+Valmistumisvuosi {{ teos[0].valmistumisvuosi }}<br>
+Vedosmäärä: {{ teos[0].vedosmaara }}
+</div>
