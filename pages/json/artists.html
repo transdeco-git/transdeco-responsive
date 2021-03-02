@@ -1,0 +1,19 @@
+---
+permalink: /json/artists/
+---
+
+<h1>JSON file from Strapi</h1>
+<p>Call with <strong>site.data.artists</strong></p>
+
+{% assign taiteilijat=strapi.collections.artists %}
+
+{% for taiteilija in taiteilijat %}
+<div>
+  - etunimi: {{ taiteilija.etunimi }}<br>
+  &nbsp;&nbsp;sukunimi: {{ taiteilija.sukunimi }}<br>
+  &nbsp;&nbsp;syntymavuosi: {{ taiteilija.syntymavuosi }}<br>
+  &nbsp;&nbsp;esittely: {{ taiteilija.esittely }}<br>
+  &nbsp;&nbsp;tunniste: {{ taiteilija.tunniste }}
+</div>
+<br>
+{% endfor %}

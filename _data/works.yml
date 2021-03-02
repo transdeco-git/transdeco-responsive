@@ -1,0 +1,1902 @@
+- tait_tunniste: gullichsen
+  tuotenumero: 0
+  teosnimi: Limakärsä
+  tunniste: limakarsa
+  hinta: 350
+  korkeus: 73
+  leveys: 53
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: gullichsen
+  tuotenumero: 0
+  teosnimi: Töpseli
+  tunniste: topseli
+  hinta: 350
+  korkeus: 73
+  leveys: 53
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: gullichsen
+  tuotenumero: 0
+  teosnimi: Pärre Bonk
+  tunniste: parrebonk
+  hinta: 350
+  korkeus: 73
+  leveys: 53
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: maximus
+  tuotenumero: 0
+  teosnimi: Bussijuoksu
+  tunniste: bussijuoksu
+  hinta: 250
+  korkeus: 52
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2000
+  vedosmaara: 175
+
+- tait_tunniste: maximus
+  tuotenumero: 0
+  teosnimi: Polkupyöräilijän kahvila
+  tunniste: polkupyorailijankahvila
+  hinta: 200
+  korkeus: 48
+  leveys: 42
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2000
+  vedosmaara: 100
+
+- tait_tunniste: riippa
+  tuotenumero: 0
+  teosnimi: Kimppu
+  tunniste: kimppu
+  hinta: 380
+  korkeus: 40
+  leveys: 54
+  tekniikka: Viivasyövytys-akvatinta
+  valmistumisvuosi: 2013
+  vedosmaara: 75
+
+- tait_tunniste: railo
+  tuotenumero: 0
+  teosnimi: Taivaanvuohi paatilla
+  tunniste: taivaanvuohipaatilla
+  hinta: 310
+  korkeus: 40
+  leveys: 54
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 100
+
+- tait_tunniste: augustson
+  tuotenumero: 0
+  teosnimi: Syysleikki 1
+  tunniste: syysleikki1
+  hinta: 330
+  korkeus: 40
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1991
+  vedosmaara: 99
+
+- tait_tunniste: augustson
+  tuotenumero: 0
+  teosnimi: Syysleikki 2
+  tunniste: syysleikki2
+  hinta: 330
+  korkeus: 40
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1991
+  vedosmaara: 99
+
+- tait_tunniste: augustson
+  tuotenumero: 0
+  teosnimi: Syysleikki 3
+  tunniste: syysleikki3
+  hinta: 330
+  korkeus: 40
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1991
+  vedosmaara: 99
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Satamassa
+  tunniste: satamassa
+  hinta: 285
+  korkeus: 43
+  leveys: 36
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2015
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Jouhisorsa
+  tunniste: jouhisorsa
+  hinta: 220
+  korkeus: 32
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2003
+  vedosmaara: 99
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Tukkakoskelo
+  tunniste: tukkakoskelo
+  hinta: 220
+  korkeus: 32
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2003
+  vedosmaara: 99
+
+- tait_tunniste: kivinen
+  tuotenumero:
+  teosnimi: Kuusen ystävä I
+  tunniste: kuusenystava1
+  hinta: 340
+  korkeus: 47
+  leveys: 40
+  tekniikka: Akvatinta,mezzotinto,kuivaneula
+  valmistumisvuosi: 2017
+  vedosmaara: 50
+
+- tait_tunniste: riippa
+  tuotenumero:
+  teosnimi: Tapetti
+  tunniste: tapetti
+  hinta: 380
+  korkeus: 50
+  leveys: 40
+  tekniikka: Viivasyövytys-akvatinta
+  valmistumisvuosi: 2014
+  vedosmaara: 75
+
+- tait_tunniste: somppi
+  tuotenumero:
+  teosnimi: Pienen neilikkapuun vartijat
+  tunniste: pienenneilikkapuunvartijat
+  hinta: 320
+  korkeus: 45
+  leveys: 36
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2018
+  vedosmaara: 80
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Kissakuiskaaja
+  tunniste: kissakuiskaaja
+  hinta: 320
+  korkeus: 52
+  leveys: 38
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2015
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Pieni ikuisuus
+  tunniste: pieniikuisuus
+  hinta: 320
+  korkeus: 52
+  leveys: 38
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2016
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Aurinkoinen aamu
+  tunniste: aurinkoinenaamu
+  hinta: 320
+  korkeus: 52
+  leveys: 38
+  tekniikka:
+  valmistumisvuosi: 2018
+  vedosmaara: 100
+
+- tait_tunniste: bergqvist
+  tuotenumero:
+  teosnimi: Samassa veneessä
+  tunniste: samassaveneessa
+  hinta: 330
+  korkeus: 47
+  leveys: 41
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2015
+  vedosmaara: 125
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: La Luna
+  tunniste: laluna
+  hinta: 350
+  korkeus: 76
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: vuori
+  tuotenumero:
+  teosnimi: Nousujohteista
+  tunniste: nousujohteista
+  hinta: 220
+  korkeus: 55
+  leveys: 40
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2017
+  vedosmaara:
+
+- tait_tunniste: vuori
+  tuotenumero:
+  teosnimi: Maahanmuuttaja
+  tunniste: maahanmuuttaja
+  hinta: 270
+  korkeus: 55
+  leveys: 45
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2009
+  vedosmaara: 150
+
+- tait_tunniste: clyv
+  tuotenumero:
+  teosnimi: L'arbre de vie - Elämän puu
+  tunniste: larbredevie
+  hinta: 300
+  korkeus: 65
+  leveys: 48
+  tekniikka: Litografia
+  valmistumisvuosi: 2001
+  vedosmaara: 175
+
+- tait_tunniste: clyv
+  tuotenumero:
+  teosnimi: Coquille de vie - Simpukkakoti
+  tunniste: coquilledevie
+  hinta: 200
+  korkeus: 47
+  leveys: 38
+  tekniikka: Litografia
+  valmistumisvuosi: 2002
+  vedosmaara: 175
+
+- tait_tunniste: clyv
+  tuotenumero:
+  teosnimi: Paysage à la coque - Kevätkoti
+  tunniste: paysagealacoque
+  hinta: 200
+  korkeus: 47
+  leveys: 38
+  tekniikka: Litografia
+  valmistumisvuosi: 2002
+  vedosmaara: 175
+
+- tait_tunniste: vaisanen
+  tuotenumero:
+  teosnimi: Il miracolo di Choane
+  tunniste: ilmiracolodichoane
+  hinta: 750
+  korkeus: 57
+  leveys: 146
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Varhain aamusella
+  tunniste: varhainaamusella
+  hinta: 315
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2011
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Ympäri käydään
+  tunniste: ymparikaydaan
+  hinta: 315
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2011
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Kristallivuori
+  tunniste: kristallivuori
+  hinta: 315
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2013
+  vedosmaara: 100
+
+- tait_tunniste: vuorinen
+  tuotenumero:
+  teosnimi: Unelmat kantavat
+  tunniste: unelmatkantavat
+  hinta: 320
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2014
+  vedosmaara:
+
+- tait_tunniste: vaisanen
+  tuotenumero:
+  teosnimi: Luominen ja kolme pylvästä
+  tunniste: luominenjakolmepylvasta
+  hinta: 500
+  korkeus: 56
+  leveys: 73
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: vaisanen
+  tuotenumero:
+  teosnimi: Viisi aistia ja muisti
+  tunniste: viisiaistiajamuisti
+  hinta: 500
+  korkeus: 73
+  leveys: 56
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: vaisanen
+  tuotenumero:
+  teosnimi: Nimetön
+  tunniste: nimeton
+  hinta: 500
+  korkeus: 56
+  leveys: 73
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: koistinen
+  tuotenumero:
+  teosnimi: Kevät
+  tunniste: kevat
+  hinta: 400
+  korkeus: 48
+  leveys: 56
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2012
+  vedosmaara: 100
+
+- tait_tunniste: koistinen
+  tuotenumero:
+  teosnimi: Kesän kaipuu
+  tunniste: kesankaipuu
+  hinta: 400
+  korkeus: 39
+  leveys: 54
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2011
+  vedosmaara: 100
+
+- tait_tunniste: koistinen
+  tuotenumero:
+  teosnimi: Kuutamolla
+  tunniste: kuutamolla
+  hinta: 370
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2013
+  vedosmaara: 100
+
+- tait_tunniste: kaila
+  tuotenumero:
+  teosnimi: Aavistuksen tavoin
+  tunniste: aavistuksentavoin
+  hinta: 320
+  korkeus: 46
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 125
+
+- tait_tunniste: kaila
+  tuotenumero:
+  teosnimi: Sinulle
+  tunniste: sinulle
+  hinta: 320
+  korkeus: 33
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2014
+  vedosmaara: 125
+
+- tait_tunniste: kaila
+  tuotenumero:
+  teosnimi: Vanamotyttö
+  tunniste: vanamotytto
+  hinta: 250
+  korkeus: 30
+  leveys: 24
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2008
+  vedosmaara: 195
+
+- tait_tunniste: kaila
+  tuotenumero:
+  teosnimi: Gabriel
+  tunniste: gabriel
+  hinta: 340
+  korkeus: 46
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2009
+  vedosmaara: 195
+
+- tait_tunniste: sirviö
+  tuotenumero:
+  teosnimi: Vivace
+  tunniste: vivace
+  hinta: 380
+  korkeus: 49
+  leveys: 53
+  tekniikka: Kivilitografia
+  valmistumisvuosi: 2010
+  vedosmaara: 75
+
+- tait_tunniste: sirviö
+  tuotenumero:
+  teosnimi: Aamuun avautuvat
+  tunniste: aamuunavautuvat
+  hinta: 380
+  korkeus: 40
+  leveys: 55
+  tekniikka: Kivilitografia
+  valmistumisvuosi: 2010
+  vedosmaara: 50
+
+- tait_tunniste: stenvall
+  tuotenumero:
+  teosnimi: Kuraattorin virka
+  tunniste: kuraattorinvirka
+  hinta: 380
+  korkeus: 50
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2008
+  vedosmaara: 195
+
+- tait_tunniste: stenvall
+  tuotenumero:
+  teosnimi: Olemisen keveys
+  tunniste: olemisenkeveys
+  hinta: 380
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2009
+  vedosmaara: 195
+
+- tait_tunniste: stenvall
+  tuotenumero:
+  teosnimi: Helene
+  tunniste: helene
+  hinta: 380
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2003
+  vedosmaara: 195
+
+- tait_tunniste: stenvall
+  tuotenumero:
+  teosnimi: Iso puku
+  tunniste: isopuku
+  hinta: 380
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2002
+  vedosmaara: 195
+
+- tait_tunniste: lavonen
+  tuotenumero:
+  teosnimi: Mikael
+  tunniste: mikael
+  hinta: 900
+  korkeus:
+  leveys:
+  tekniikka: Kivilitografia
+  valmistumisvuosi: 2011
+  vedosmaara: 60
+
+- tait_tunniste: lavonen
+  tuotenumero:
+  teosnimi: Al Ghazali
+  tunniste: alghazali
+  hinta: 360
+  korkeus:
+  leveys:
+  tekniikka: Kivilitografia
+  valmistumisvuosi: 2009
+  vedosmaara: 60
+
+- tait_tunniste: airikkala
+  tuotenumero:
+  teosnimi: Runottaret I
+  tunniste: runottaret1
+  hinta: 200
+  korkeus: 38
+  leveys: 29
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2005
+  vedosmaara: 195
+
+- tait_tunniste: airikkala
+  tuotenumero:
+  teosnimi: Runottaret II
+  tunniste: runottaret2
+  hinta: 200
+  korkeus: 38
+  leveys: 29
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2005
+  vedosmaara: 195
+
+- tait_tunniste: mughal
+  tuotenumero:
+  teosnimi: Poem
+  tunniste: poem
+  hinta: 290
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2008
+  vedosmaara: 100
+
+- tait_tunniste: bergqvist
+  tuotenumero:
+  teosnimi: Samaa unta
+  tunniste: samaaunta
+  hinta: 330
+  korkeus: 50
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2007
+  vedosmaara: 195
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Seireeni
+  tunniste: seireeni
+  hinta: 320
+  korkeus: 54
+  leveys: 41
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 75
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Liekki
+  tunniste: liekki
+  hinta: 320
+  korkeus: 58
+  leveys: 45
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 100
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Onnellinen prinssi
+  tunniste: onnellinenprinssi
+  hinta: 240
+  korkeus: 55
+  leveys: 41
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2001
+  vedosmaara: 125
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Balladi
+  tunniste: balladi
+  hinta: 240
+  korkeus: 60
+  leveys: 46
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1999
+  vedosmaara: 125
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Albatrossi
+  tunniste: albatrossi
+  hinta: 300
+  korkeus: 70
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2005
+  vedosmaara: 75
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Moulin rouge I
+  tunniste: moulinrouge1
+  hinta: 350
+  korkeus: 75
+  leveys: 56
+  tekniikka: Litografia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Moulin rouge II
+  tunniste: moulinrouge2
+  hinta: 350
+  korkeus: 75
+  leveys: 56
+  tekniikka: Litografia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Notre Dame I
+  tunniste: notredame1
+  hinta: 350
+  korkeus: 75
+  leveys: 56
+  tekniikka: Litografia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Notre Dame II
+  tunniste: notredame2
+  hinta: 350
+  korkeus: 75
+  leveys: 56
+  tekniikka: Litografia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: vuorisalo
+  tuotenumero:
+  teosnimi: Hiirenvirna
+  tunniste: hiirenvirna
+  hinta: 180
+  korkeus: 46
+  leveys: 59
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: vuori
+  tuotenumero:
+  teosnimi: Original swing
+  tunniste: originalswing
+  hinta: 270
+  korkeus: 50
+  leveys: 37
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1999
+  vedosmaara: 150
+
+- tait_tunniste: vuori
+  tuotenumero:
+  teosnimi: Satumaa
+  tunniste: satumaa
+  hinta: 270
+  korkeus: 56
+  leveys: 43
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2003
+  vedosmaara: 195
+
+- tait_tunniste: vuori
+  tuotenumero:
+  teosnimi: Goljatti
+  tunniste: goljatti
+  hinta: 270
+  korkeus: 45
+  leveys: 55
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2016
+  vedosmaara: 150
+
+- tait_tunniste: somppi
+  tuotenumero:
+  teosnimi: Aprikoosisadon vartijat
+  tunniste: aprikoosisadonvartijat
+  hinta: 320
+  korkeus: 65
+  leveys: 48
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2013
+  vedosmaara: 125
+
+- tait_tunniste: bremer
+  tuotenumero:
+  teosnimi: Tiger
+  tunniste: tiger
+  hinta: 280
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2003
+  vedosmaara: 100
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Talvipäivän seisaus
+  tunniste: talvipaivanseisaus
+  hinta: 300
+  korkeus: 50
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero: -2
+  teosnimi: Tauko
+  tunniste: tauko
+  hinta: 270
+  korkeus: 37
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Löytö
+  tunniste: loyto
+  hinta: 270
+  korkeus: 37
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Suojassa
+  tunniste: suojassa
+  hinta: 300
+  korkeus: 49
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Luminen metsä
+  tunniste: luminenmetsa
+  hinta: 300
+  korkeus: 45
+  leveys: 54
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2013
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Usva nousee
+  tunniste: usvanousee
+  hinta: 300
+  korkeus: 47
+  leveys: 56
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2014
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Luodolla
+  tunniste: luodolla
+  hinta: 300
+  korkeus: 61
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Hiljaiseloa
+  tunniste: hiljaiseloa
+  hinta: 300
+  korkeus: 44
+  leveys: 55
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2009
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Sieniasetelma
+  tunniste: sieniasetelma
+  hinta: 150
+  korkeus: 63
+  leveys: 48
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kalapöytä
+  tunniste: kalapoyta
+  hinta: 150
+  korkeus: 63
+  leveys: 48
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 150
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Talven taikaa
+  tunniste: talventaikaa
+  hinta: 300
+  korkeus: 57
+  leveys: 46
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2007
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Pieni käpy
+  tunniste: pienikapy
+  hinta: 180
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Metsäkana
+  tunniste: metsakana
+  hinta: 150
+  korkeus: 32
+  leveys: 28
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1990
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kevätpuu
+  tunniste: kevatpuu
+  hinta: 350
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kesäpuu
+  tunniste: kesapuu
+  hinta: 350
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Syyspuu
+  tunniste: syyspuu
+  hinta: 350
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Tuulen viemää
+  tunniste: tuulenviemaa
+  hinta: 180
+  korkeus: 34
+  leveys: 28
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2006
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Jano
+  tunniste: jano
+  hinta: 270
+  korkeus: 38
+  leveys: 34
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1999
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Veneellä
+  tunniste: veneella
+  hinta: 100
+  korkeus: 23
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1987
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kallioranta
+  tunniste: kallioranta
+  hinta: 300
+  korkeus: 48
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2004
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Hämärän hetki
+  tunniste: hamaranhetki
+  hinta: 300
+  korkeus: 50
+  leveys: 60
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2008
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Villihanhet
+  tunniste: villihanhet
+  hinta: 300
+  korkeus: 48
+  leveys: 58
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2009
+  vedosmaara: 175
+
+- tait_tunniste: kivinen
+  tuotenumero:
+  teosnimi: Uimakivellä
+  tunniste: uimakivella
+  hinta: 340
+  korkeus: 42
+  leveys: 37
+  tekniikka: Akvatinta,mezzotinto,kuivaneula
+  valmistumisvuosi: 2013
+  vedosmaara: 50
+
+- tait_tunniste: riippa
+  tuotenumero:
+  teosnimi: Kesäillan valssi
+  tunniste: kesaillanvalssi
+  hinta: 380
+  korkeus: 40
+  leveys: 54
+  tekniikka: Viivasyövytys-akvatinta
+  valmistumisvuosi: 2015
+  vedosmaara: 75
+
+- tait_tunniste: kontiainen
+  tuotenumero:
+  teosnimi: Huvimaja
+  tunniste: huvimaja
+  hinta: 200
+  korkeus: 36
+  leveys: 51
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 2010
+  vedosmaara: 75
+
+- tait_tunniste: lappalainen
+  tuotenumero:
+  teosnimi: Ulos aurinkoon
+  tunniste: ulosaurinkoon
+  hinta: 300
+  korkeus: 50
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1992
+  vedosmaara:
+
+- tait_tunniste: lappalainen
+  tuotenumero:
+  teosnimi: Illan tullen
+  tunniste: illantullen
+  hinta: 300
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: lappalainen
+  tuotenumero:
+  teosnimi: Ilo
+  tunniste: ilo
+  hinta: 220
+  korkeus: 38
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2004
+  vedosmaara:
+
+- tait_tunniste: lappalainen
+  tuotenumero:
+  teosnimi: Auringonlaskun aikaan
+  tunniste: auringonlaskunaikaan
+  hinta: 180
+  korkeus: 31
+  leveys: 40
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1997
+  vedosmaara: 170
+
+- tait_tunniste: lappalainen
+  tuotenumero:
+  teosnimi: Jeu du soleil
+  tunniste: jeudusoleil
+  hinta: 180
+  korkeus: 31
+  leveys: 40
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2005
+  vedosmaara:
+
+- tait_tunniste: laine
+  tuotenumero:
+  teosnimi: Figuuri XII
+  tunniste: figuuri12
+  hinta: 400
+  korkeus: 65
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2014
+  vedosmaara:
+
+- tait_tunniste: laine
+  tuotenumero:
+  teosnimi: Asetelma
+  tunniste: asetelma
+  hinta: 200
+  korkeus: 30
+  leveys: 21
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2004
+  vedosmaara: 100
+
+- tait_tunniste: laine
+  tuotenumero:
+  teosnimi: Pieni soittaja III
+  tunniste: pienisoittaja3
+  hinta: 150
+  korkeus: 26
+  leveys: 20
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2017
+  vedosmaara:
+
+- tait_tunniste: laine
+  tuotenumero:
+  teosnimi: Pieni soittaja IV
+  tunniste: pienisoittaja4
+  hinta: 150
+  korkeus: 26
+  leveys: 20
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2017
+  vedosmaara:
+
+- tait_tunniste: laine
+  tuotenumero:
+  teosnimi: Pieni soittaja V
+  tunniste: pienisoittaja5
+  hinta: 150
+  korkeus: 26
+  leveys: 20
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2017
+  vedosmaara:
+
+- tait_tunniste: blomstedt
+  tuotenumero:
+  teosnimi: Kompositio I
+  tunniste: kompositio1
+  hinta: 300
+  korkeus: 27
+  leveys: 21
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2002
+  vedosmaara: 100
+
+- tait_tunniste: blomstedt
+  tuotenumero:
+  teosnimi: Kompositio II
+  tunniste: kompositio2
+  hinta: 250
+  korkeus: 15
+  leveys: 11
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1998
+  vedosmaara: 100
+
+- tait_tunniste: neuvonen
+  tuotenumero:
+  teosnimi: Alexandra Simbergin talvipuku
+  tunniste: alexandrasimbergintalvi
+  hinta: 450
+  korkeus:
+  leveys:
+  tekniikka: Etsaus-akvatinta
+  valmistumisvuosi: 1993
+  vedosmaara: 90
+
+- tait_tunniste: vaisanen
+  tuotenumero:
+  teosnimi: Kaksi vanhaa pihlajaa
+  tunniste: kaksivanhaapihlajaa
+  hinta: 700
+  korkeus:
+  leveys:
+  tekniikka: Litografia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: juurak
+  tuotenumero:
+  teosnimi: Hüpe-Hyppy
+  tunniste: hupehyppy
+  hinta: 180
+  korkeus: 59
+  leveys: 75
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 100
+
+- tait_tunniste: juurak
+  tuotenumero:
+  teosnimi: Koonus-Kartio
+  tunniste: koonuskartio
+  hinta: 180
+  korkeus: 59
+  leveys: 75
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 100
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Susi
+  tunniste: susi
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Hirvi
+  tunniste: hirvi
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Kuollut lintu
+  tunniste: kuollutlintu
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Pöllo ja hiiri
+  tunniste: pollojahiiri
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Metsälampi
+  tunniste: metsalampi
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Iso pöllö
+  tunniste: isopollo
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Kaksi pöllöä
+  tunniste: kaksipolloa
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: huhtanen
+  tuotenumero:
+  teosnimi: Kaksi palloa
+  tunniste: kaksipalloa
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: kiippa
+  tuotenumero:
+  teosnimi: Venevaja
+  tunniste: venevaja
+  hinta: 250
+  korkeus: 50
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1993
+  vedosmaara:
+
+- tait_tunniste: soisalo
+  tuotenumero:
+  teosnimi: Terra Nova I
+  tunniste: terranova1
+  hinta: 380
+  korkeus: 77
+  leveys: 62
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 100
+
+- tait_tunniste: soisalo
+  tuotenumero:
+  teosnimi: Terra Nova II
+  tunniste: terranova2
+  hinta: 380
+  korkeus: 91
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara: 100
+
+- tait_tunniste: soisalo
+  tuotenumero:
+  teosnimi: Eilisen tulevaisuus
+  tunniste: eilisentulevaisuus
+  hinta: 380
+  korkeus: 73
+  leveys: 61
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1990
+  vedosmaara: 100
+
+- tait_tunniste: para
+  tuotenumero:
+  teosnimi: Sinisade
+  tunniste: sinisade
+  hinta: 200
+  korkeus: 48
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara: 175
+
+- tait_tunniste: dumontet
+  tuotenumero:
+  teosnimi: Opaline II
+  tunniste: opaline2
+  hinta: 200
+  korkeus: 50
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara: 175
+
+- tait_tunniste: dumontet
+  tuotenumero:
+  teosnimi: Coquillage II
+  tunniste: coquillage2
+  hinta: 200
+  korkeus: 65
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara: 175
+
+- tait_tunniste: dumontet
+  tuotenumero:
+  teosnimi: Eventail
+  tunniste: eventail
+  hinta: 200
+  korkeus: 66
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara: 175
+
+- tait_tunniste: marmonnier
+  tuotenumero:
+  teosnimi: Passion
+  tunniste: passion
+  hinta: 200
+  korkeus: 50
+  leveys: 39
+  tekniikka: Etsaus
+  valmistumisvuosi:
+  vedosmaara: 30
+
+- tait_tunniste: marmonnier
+  tuotenumero:
+  teosnimi: Cathedrale
+  tunniste: cathedrale
+  hinta: 200
+  korkeus: 50
+  leveys: 39
+  tekniikka: Etsaus
+  valmistumisvuosi:
+  vedosmaara: 30
+
+- tait_tunniste: marmonnier
+  tuotenumero:
+  teosnimi: Offrande
+  tunniste: offrande
+  hinta: 200
+  korkeus: 50
+  leveys: 39
+  tekniikka: Etsaus
+  valmistumisvuosi:
+  vedosmaara: 20
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Alla tähtien
+  tunniste: allatahtien
+  hinta: 300
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2012
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Kouluaamu
+  tunniste: kouluaamu
+  hinta: 320
+  korkeus: 43
+  leveys: 52
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2016
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Iltarusko
+  tunniste: iltarusko
+  hinta: 320
+  korkeus: 53
+  leveys: 42
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2015
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Hyvä lähestyminen
+  tunniste: hyvalahestyminen
+  hinta: 330
+  korkeus: 43
+  leveys: 55
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Tähtisadetta
+  tunniste: tahtisadetta
+  hinta: 320
+  korkeus: 49
+  leveys: 40
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2007
+  vedosmaara: 170
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Lyhteellä
+  tunniste: lyhteella
+  hinta: 320
+  korkeus: 58
+  leveys: 45
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2018
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Lumilyhdyllä
+  tunniste: lumilyhdylla
+  hinta: 320
+  korkeus: 53
+  leveys: 42
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2014
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Draiveripoika
+  tunniste: draiveripoika
+  hinta: 150
+  korkeus: 40
+  leveys: 30
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1999
+  vedosmaara: 100
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Alla lyhdyn
+  tunniste: allalyhdyn
+  hinta: 300
+  korkeus: 46
+  leveys: 35
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2015
+  vedosmaara: 180
+
+- tait_tunniste: koivikko
+  tuotenumero:
+  teosnimi: Kesäyössä
+  tunniste: kesayossa
+  hinta: 300
+  korkeus: 46
+  leveys: 35
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2015
+  vedosmaara: 180
+
+- tait_tunniste: tamminen
+  tuotenumero:
+  teosnimi: Iltapäivällä
+  tunniste: iltapaivalla
+  hinta: 320
+  korkeus: 39
+  leveys: 27
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2011
+  vedosmaara: 150
+
+- tait_tunniste: mikkonen
+  tuotenumero:
+  teosnimi: Lotus
+  tunniste: lotus
+  hinta: 440
+  korkeus: 56
+  leveys: 40
+  tekniikka: Litografia
+  valmistumisvuosi: 2010
+  vedosmaara: 100
+
+- tait_tunniste: woods
+  tuotenumero:
+  teosnimi: Huokauksien kaupunki
+  tunniste: huokauksienkaupunki
+  hinta: 140
+  korkeus: 35
+  leveys: 30
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2013
+  vedosmaara: 75
+
+- tait_tunniste: mikkonen
+  tuotenumero:
+  teosnimi: Sininen lintu
+  tunniste: sininenlintu
+  hinta: 600
+  korkeus:
+  leveys:
+  tekniikka: Litografia
+  valmistumisvuosi: 2003
+  vedosmaara: 30
+
+- tait_tunniste: mikkonen
+  tuotenumero:
+  teosnimi: Lily
+  tunniste: lily
+  hinta: 440
+  korkeus:
+  leveys:
+  tekniikka: Litografia
+  valmistumisvuosi: 2008
+  vedosmaara: 100
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Puu - kevät
+  tunniste: puu-kevat
+  hinta: 350
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Puu - kesä
+  tunniste: puu-kesa
+  hinta: 350
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Puu - syksy
+  tunniste: puu-syksy
+  hinta:
+  korkeus: 38
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1988
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Iso metsälintu
+  tunniste: isometsalintu
+  hinta: 150
+  korkeus: 32
+  leveys: 45
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1990
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Lapin erämaja
+  tunniste: lapineramaja
+  hinta: 150
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Teeri / Riekko
+  tunniste: teeririekko
+  hinta:
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Perhonen
+  tunniste: perhonen
+  hinta: 150
+  korkeus: 35
+  leveys: 26
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1992
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Talitintti
+  tunniste: talitintti
+  hinta: 150
+  korkeus: 30
+  leveys: 21
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kuikka
+  tunniste: kuikka
+  hinta: 150
+  korkeus: 35
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Lapin pöllö
+  tunniste: lapinpollo
+  hinta: 150
+  korkeus: 43
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1987
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Nokipannukahvi
+  tunniste: nokipannukahvi
+  hinta: 150
+  korkeus: 34
+  leveys: 46
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1987
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Silkkiuikku
+  tunniste: silkkiuikku
+  hinta: 150
+  korkeus: 35
+  leveys: 50
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1990
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Omenapuun alla
+  tunniste: omenapuunalla
+  hinta: 180
+  korkeus: 50
+  leveys: 54
+  tekniikka: Serigrafia
+  valmistumisvuosi: 2005
+  vedosmaara: 175
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Erämaa - lintu
+  tunniste: eramaa-lintu
+  hinta: 150
+  korkeus: 32
+  leveys: 45
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1990
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Sorsahoukutin
+  tunniste: sorsahoukutin
+  hinta: 150
+  korkeus: 43
+  leveys: 57
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1991
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Sorsahoukutin tekstillä
+  tunniste: sorsahoukutintekstilla
+  hinta: 150
+  korkeus: 61
+  leveys: 33
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1991
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Jyrkänne
+  tunniste: jyrkanne
+  hinta: 200
+  korkeus: 48
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1989
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Lapin sininen hetki
+  tunniste: lapinsininenhetki
+  hinta: 150
+  korkeus: 43
+  leveys: 58
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1981
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Erämaalatu
+  tunniste: eramaalatu
+  hinta: 150
+  korkeus: 48
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Ladolla
+  tunniste: ladolla
+  hinta: 150
+  korkeus: 48
+  leveys: 63
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Pilkillä
+  tunniste: pilkilla
+  hinta: 100
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Hirvet
+  tunniste: hirvet
+  hinta: 100
+  korkeus: 52
+  leveys: 65
+  tekniikka: Serigrafia
+  valmistumisvuosi: 1995
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kissa (pieni)
+  tunniste: kissapieni
+  hinta: 60
+  korkeus: 19
+  leveys: 18
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Lintu (pieni)
+  tunniste: lintupieni
+  hinta: 60
+  korkeus: 19
+  leveys: 18
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kukka (pieni)
+  tunniste: kukkapieni
+  hinta: 60
+  korkeus: 19
+  leveys: 18
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Käpy (pieni)
+  tunniste: kapypieni
+  hinta: 60
+  korkeus: 19
+  leveys: 18
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Kaksi lintua
+  tunniste: kaksilintua
+  hinta:
+  korkeus: 24
+  leveys: 24
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Lintuemo poikasineen
+  tunniste: lintuemopoikasineen
+  hinta:
+  korkeus: 37
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste:
+  tuotenumero:
+  teosnimi: Keltasilmäinen lintu
+  tunniste: keltasilmainenlintu
+  hinta:
+  korkeus: 37
+  leveys: 32
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:
+
+- tait_tunniste: polameri
+  tuotenumero:
+  teosnimi: Viekas lintu
+  tunniste: viekaslintu
+  hinta: 150
+  korkeus:
+  leveys:
+  tekniikka: Serigrafia
+  valmistumisvuosi:
+  vedosmaara:

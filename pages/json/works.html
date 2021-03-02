@@ -1,0 +1,47 @@
+---
+permalink: /json/works/
+---
+
+<h1>JSON file from Strapi</h1>
+<p>Call with <strong>site.data.works</strong></p>
+
+{% assign teokset=strapi.collections.works %}
+
+{% for teos in teokset %}
+<div>
+  - tait_tunniste: {{ teos.tait_tunniste }}<br>
+  &nbsp;&nbsp;tuotenumero: {{ teos.tuotenumero }}<br>
+  &nbsp;&nbsp;teosnimi: {{ teos.teosnimi }}<br>
+  &nbsp;&nbsp;tunniste: {{ teos.tunniste }}<br>
+  &nbsp;&nbsp;hinta: {{ teos.hinta }}<br>
+  &nbsp;&nbsp;korkeus: {{ teos.korkeus }}<br>
+  &nbsp;&nbsp;leveys: {{ teos.leveys }}<br>
+  &nbsp;&nbsp;tekniikka: {{ teos.tekniikka }}<br>
+  &nbsp;&nbsp;valmistumisvuosi: {{ teos.valmistumisvuosi }}<br>
+  &nbsp;&nbsp;vedosmaara: {{ teos.vedosmaara }}
+</div>
+<br>
+{% endfor %}
+
+
+
+{% comment %}
+{% for teos in teokset %}
+  {% if artist.tunniste==teos[0].tait_tunniste %}
+    {% assign taiteilija =  artist.nimi %}
+  {% endif %}
+{% endfor %}
+<div style="text-align:left">
+Taiteilija: {{ taiteilija }}<br>
+Tuotenumero: {{ teos[0].tuotenumero }}<br>
+Teosnimi: {{ teos[0].teosnimi }}<br>
+Tunniste: {{ teos[0].tunniste }}<br>
+Hinta: {{ teos[0].hinta }}<br>
+Korkeus: {{ teos[0].korkeus }}<br>
+Leveys: {{ teos[0].leveys }}<br>
+Tekniikka: {{ teos[0].tekniikka }}<br>
+Valmistumisvuosi {{ teos[0].valmistumisvuosi }}<br>
+Vedosmäärä: {{ teos[0].vedosmaara }}
+</div>
+{% endcomment %}
+
