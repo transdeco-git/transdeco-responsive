@@ -25,43 +25,23 @@ a:active {
 }
 </style>
 
-{% comment %}
-{% assign artist = page.url %}
-{% assign artist = artist | slice: 9, 40 %}
-
-{% assign taiteilijat=site.data.artists | where:"tunniste", artist  %}
-{% for taiteilija in taiteilijat %}
-  {% if taiteilija.tunniste==teos[0].tait_tunniste %}
-    {% assign taiteilija = artist.nimi %}
-  {% endif %}
-{% endfor %}
-
-<div style="text-align:left">
-Taiteilija: {{ taiteilija }}<br>
-Tuotenumero: {{ teos[0].tuotenumero }}<br>
-Teosnimi: {{ teos[0].teosnimi }}<br>
-Hinta: {{ teos[0].hinta }} &eur;<br>
-Korkeus: {{ teos[0].korkeus }}<br>
-Leveys: {{ teos[0].leveys }}<br>
-Tekniikka: {{ teos[0].tekniikka }}<br>
-Valmistumisvuosi {{ teos[0].valmistumisvuosi }}<br>
-Vedosmäärä: {{ teos[0].vedosmaara }}
-</div>
-{% endcomment %}
-
 
 {% assign artist = page.url %}
 {% assign artist = artist | slice: 9, 40 %}
 
 {% assign taiteilijat=strapi.collections.artists | where:"tunniste", artist %}
 {% for taiteilija in taiteilijat %}
-  <h1>{{ taiteilija.etunimi }}&nbsp;{{ taiteilija.sukunimi }}, (s. {{ taiteilija.syntymavuosi }})</h1>
+  <h1>{{ taiteilija.nimi }}, (s. {{ taiteilija.syntymavuosi }})</h1>
   <div>
   {{ taiteilija.esittely }}
   </div>
 {% endfor %}
 
+<p class="lead">&nbsp;</p>
+
 {% assign teokset=strapi.collections.works | where:"tait_tunniste", artist  %}
+
+{% comment %}
 <div>
 <ul class="list-group">
 {% for teos in teokset %}
@@ -70,4 +50,15 @@ Vedosmäärä: {{ teos[0].vedosmaara }}
   </li>
 {% endfor %}
 </ul>
+</div>
+{% endcomment %}
+
+<div class="table-responsive">
+  <table class="table center table-sm">
+  {% for teos in teokset %}
+    <tr>
+      <td><a href="/works/{{ teos.tunniste }}.html">{{ teos.teosnimi }}</a></td>
+    </tr>
+  {% endfor %}
+  </table>
 </div>

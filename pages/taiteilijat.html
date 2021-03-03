@@ -15,13 +15,34 @@ td {
   text-align: left;
   padding-right: 25px;
 }
+
+/* Links */
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ad1216;
+}
+
+a:active {
+  text-decoration: none;
+  color: #000000;
+}
 </style>
 
 {% assign artists = strapi.collections.artists | sort:"tunniste" %}
-<div style="overflow-x:auto;">
-  <table class="table center table-borderless bg-light">
-  {% tablerow taiteilija in artists cols:6 %}
-    {{ artist.etunimi }}&nbsp;{{ artist.sukunimi }}
+<div class="table-responsive">
+  <table class="table center table-sm">
+  {% tablerow artist in artists cols:6 %}
+    <a href="/artists/{{ artist.tunniste }}.html">{{ artist.nimi }}</a>
   {% endtablerow %}
   </table>
 </div>

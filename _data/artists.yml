@@ -1,126 +1,209 @@
-- nimi: Alvar Gullichsen
+ - nimi: Alvar Gullichsen
+  syntymavuosi: 1961
+  esittely: Alvar Gullichsen on Suomen taiteessa ilmiö. Hänellä on sekä ideoita että taito varioida itseään ja ympäröivää yhteiskuntaa. Hänen töissään mielikuvitus ja todellisuus näyttävät pitkää nenää toisilleen.
   tunniste: gullichsen
 
 - nimi: Bruno Maximus
+  syntymavuosi: 1970
+  esittely: Taiteilija on syntynyt Jyväskylässä, mutta asunut ja työskennellyt eri puolilla maailmaa, mm. Englannissa, Meksikossa ja Brasiliassa. Tyylisuuntaansa hän kutsuu hyperrealismiksi. Näyttelyitä vuodesta 1992 alkaen.
   tunniste: maximus
 
 - nimi: Emmi Vuorinen
+  syntymavuosi: 1948
+  esittely: Emmi Vuorinen on monipuolinen kuvataiteilija, joka on viime vuosina keskittynyt grafiikkaan. Hän käyttää grafiikassaan useita menetelmiä, ja hänen työnsä ovat tunnelmaltaan ajattomia, intensiivisiä ja hetkessä kiinni. Useita ryhmänäyttelyitä vuodesta 1979 ja yksityisnäyttelyitä vuodesta 1999 lähtien.
   tunniste: vuorinen
 
 - nimi: Esa Riippa
+  syntymavuosi:
+  esittely: Esa Riippa edustaa perinteistä taidegrafiikkaa. Hänen työnsä on usein salaperäistä surrealismia, värillisiä vedoksia muutamalla laatalla, joissa etsaus yhdistyy akvatintaan. Palkittu graafikko on pitänyt useita yksityisnäyttelyitä ja on edustettuna useissa kokoelmissa kotimaassa ja ulkomailla.
   tunniste: riippa
 
 - nimi: Esko Railo
+  syntymavuosi: 1961
+  esittely: Esko Railo on kankaanpään taidekoulusta vuonna 1986 valmistunut taidegraafikko, jonka töitä on nähty lukuissa näyttelyissä kotimaassa ja muualla Euroopassa. Railon töitä on useissa julkisissa kokoelmissa ja mm. valtion kokoelmissa.
   tunniste: railo
 
 - nimi: Göran Augustson
+  syntymavuosi: 1936
+  esittely: Göran Augustson on San Vannin perillisiä, konstruktivisti, jolle suora viiva, selkeys ja järjestys ovat ominaisia.
   tunniste: augustson
 
 - nimi: Seppo Polameri
+  syntymavuosi: 1936
+  esittely: Kuvittaja sekä graafinen taiteilija Seppo Polameri on tunnetuimpia luonnonkuvaajiamme. Hänet on usein palkittu kuvituksistaan ja muista graafisista töistään. Hänen töitään on ollut esillä useissa näyttelyissä Suomessa ja ulkomailla.
   tunniste: polameri
 
 - nimi: Kaarina Kaila
+  syntymavuosi: 1941
+  esittely: Kaarina Kaila on etenkin kuvituksistaan ja renesanssin aiheista vaikutuksia saanut taidemaalari. Yksityisnäyttelyitä vuodesta 1971 alkaen. Kaarina Kaila työskentelee osan vuodesta Venetsiassa.
   tunniste: kaila
 
 - nimi: Tiina Kivinen
+  syntymavuosi: 1971
+  esittely: Tiina Kivinen on metalligrafiikkaan erikoistunut nuori taiteilija. Vedoksissaan hän käyttää mezzotinto-tekniikkaa, jolla hän saa aikaan syvän, sametinpehmeän mustan sävyn. Lukuisia yksityis-ja yhteisnäyttelyitä.
   tunniste: kivinen
 
 - nimi: Kaisu Sirviö
+  syntymavuosi:
+  esittely: Kaisu Sirviö on helsinkiläinen taidegraafikko. Hänen välineensä on kivilitografia, teknisesti vaativa ja työläs menetelmä. Taiteilijaa kiehtoo litografiassa valöörien rikkaus. Kaisu Sirviön kädenjälki on hyvin maalauksellista, hän luottaa välineensä mahtavaan sävykirjoon.
   tunniste: sirvio
 
 - nimi: Päivi Paunu
+  syntymavuosi:
+  esittely:
   tunniste: paunu
 
 - nimi: Päivi Lempinen
+  syntymavuosi:
+  esittely:
   tunniste: lempinen
 
 - nimi: Onerva Karlsson
+  syntymavuosi:
+  esittely:
   tunniste: karlsson
 
 - nimi: Anne Marmonnier
+  syntymavuosi:
+  esittely:
   tunniste: marmonnier
 
 - nimi: Johanna Koistinen
+  syntymavuosi: 1956
+  esittely: Johanna Koistinen on tunnettu ja arvostettu graafikko, jonka töitä on ollut näyttelyissä v. 1982 alkaen. Taiteilijalle ominaisia ovat kasvi- ja käsiteemat, jotka toistuvat hänen aiheissaan. Lukuisia yksityis- ja yhteisnäyttelyitä. Teoksia kokoelmissa Suomessa ja ulkomailla.
   tunniste: koistinen
 
 - nimi: Päivi Somppi
+  syntymavuosi: 1973
+  esittely: Graafikko Päivi Somppi tunnetaan myyttisistä aiheistaan. Hänen lähtökohtanaan ovat usein muinaisen Egyptin ja antiikin Kreikan tarut. Näyttelyitä vuodesta 1995.
   tunniste: somppi
 
 - nimi: Kaj Stenvall
+  syntymavuosi: 1951
+  esittely: Taiteilija tunnetaan erityisesti ankkateoksistaan, jotka ovat saaneet runsaasti tunnustusta eri puolilla maailmaa. Stenvallin töitä on ollut esillä vuodesta 1972 ja niitä on kaikissa huomattavissa kokoelmissa mm. Kiasmassa, Wäinö Aaltosen museossa ja Helsingin kaupungin Taidemuseossa.
   tunniste: stenvall
 
 - nimi: Tapani Mikkonen
+  syntymavuosi:
+  esittely: Tapani Mikkonen on puhdasverinen graafikko niin ilmaisultaan kuin tekniikaltaan. Mikkonen on moneen kertaan palkittu taiteilija, jonka töitä on esillä merkittävissä suomalaisissa museoissa. Hän on osallistunut lukuisiin näyttelyihin niin Suomessa kuin ulkomailla.
   tunniste: mikkonen
 
 - nimi: Vappu Johansson
+  syntymavuosi:
+  esittely:
   tunniste: johansson
 
 - nimi: Maartit Kontiainen
+  syntymavuosi:
+  esittely:
   tunniste: kontiainen
 
 - nimi: Mia Bergqvist
+  syntymavuosi: 1974
+  esittely: Lämminhenkisistä töistään tunnettu nuoren polven taidemaalari on naivistisen tyylisuunnan edustaja. Seikkailevaksi uneksijaksi itseään luonnehtiva taiteilija on osallistunut lukuisiin naivistitaiteilijoiden näyttelyihin, kuten Naivistit Iittalassa-näyttelyyn.
   tunniste: bergqvist
 
 - nimi: Clyv
+  syntymavuosi:
+  esittely:
   tunniste: clyv
 
 - nimi: Pauli Vuorisalo
+  syntymavuosi: 1944
+  esittely: Arvostettu monipuolinen taiteilija, jonka töitä on ollut ensi kertaa esillä v. 1962. Hänen töitään on useissa kokoelmissa ja museoissa Suomessa ja ulkomailla.
   tunniste: vuorisalo
 
 - nimi: Pekka Vuori
+  syntymavuosi: 1935
+  esittely: Tunnettu graafikkona ja kirjojen ja lehtien kuvittajana. Taiteilija kuvittaa mm. Helsingin Sanomia. Palkittu Rudolf Koivu -palkinnolla, valittu vuoden graafikoksi jne.
   tunniste: vuori
 
 - nimi: Leena Airikkala
+  syntymavuosi: 1953
+  esittely: Leena Airikkala on helsinkiläinen graafikko, joka tunnetaan elämänmyönteisistä, kasveja ja arjen esineitä kuvaavista maalauksistaan. Taiteilijalla on ollut useita yksityis- ja yhteisnäyttelyitä Suomessa ja ulkomailla.
   tunniste: airikkala
 
 - nimi: Tuula Lappalainen
+  syntymavuosi:
+  esittely:
   tunniste: lappalainen
 
 - nimi: Lauri Laine
+  syntymavuosi:
+  esittely:
   tunniste: laine
 
 - nimi: Juhana Blomstedt
+  syntymavuosi:
+  esittely:
   tunniste: blomstedt
 
 - nimi: Kirsi Neuvonen
+  syntymavuosi:
+  esittely:
   tunniste: neuvonen
 
 - nimi: Hannu Väisänen
+  syntymavuosi: 1951
+  esittely: Hannu Väisänen on tunnetuimpia nykytaiteilijoitamme. Hän on taiteen moniottelija, kuvataiteilija, runoilija ja lavastaja. Hannu Väisäsen töitä on useiden taidemuseoiden kokoelmissa ja lukuisissa yksityisnäyttelyissä.
   tunniste: vaisanen
 
 - nimi: Pentti Koivikko
+  syntymavuosi: 1944
+  esittely: Tunnettu taidemaalari, piirtäjä ja graafikko, jonka teoksia on lukuisissa taidemuseoissa ja kokoelmissa Suomessa ja ulkomailla.
   tunniste: koivikko
 
 - nimi: Anu Juurak
+  syntymavuosi:
+  esittely:
   tunniste: juurak
 
 - nimi: Urpo Huhtanen
+  syntymavuosi:
+  esittely:
   tunniste: huhtanen
 
 - nimi: Tapani Kiippa
+  syntymavuosi:
+  esittely:
   tunniste: kiippa
 
 - nimi: Juha Soisalo
+  syntymavuosi:
+  esittely:
   tunniste: soisalo
 
 - nimi: Marie Para
+  syntymavuosi:
+  esittely:
   tunniste: para
 
 - nimi: Michel Dumontet
+  syntymavuosi:
+  esittely:
   tunniste: dumontet
 
 - nimi: Kuutti Lavonen
+  syntymavuosi: 1960
+  esittely: Kuutti Lavonen on yksi tunnetuimpia nykytaiteilijoitamme. Hänet tunnetaan monipuolisena maalarina, graafikkona ja kirjoittajana. Lisäksi hän on vaikuttanut taide-elämäämme opettajana Kuvataideakatemiassa. Hänen töitään on johtavissa museoissa ja kokoelmissa. Lukuisia yksityis- ja yhteisnäyttelyitä vuodesta 1980.
   tunniste: lavonen
 
 - nimi: Maria Mughal
+  syntymavuosi: 1974
+  esittely: Maria Mughal on pakistanilais-suomalainen taidemaalari ja taiteen maisteri (2004). Hänen taiteessaan vuorottelevat rationaalisuus ja mystiikka, uni ja valve. Ympyrä- ja kasvikuviot kuvastavat elämän jatkuvuutta ja jatkuvaa liikettä. Taiteilijalla on ollut useita yksityis- ja yhteisnäyttelyitä vuodesta 2000 lähtien.
   tunniste: mughal
 
 - nimi: Sari Bremer
+  syntymavuosi: 1976
+  esittely: Sari Bremer on valmistunut v. 2000 kuvataiteen maisteriksi Kuvataideakatemian grafiikan laitokselta. Hän on opiskellut myös ulkomailla mm. Ranskassa ja Irlannissa. Lukuisia yksityis-ja yhteisnäyttelyitä vuodesta 1997.
   tunniste: bremer
 
 - nimi: Seppo Tamminen
+  syntymavuosi: 1944
+  esittely: Seppo Tamminen on vaikuttanut suomalaisessa taidemaailmassa 1960-luvun puolivälistä lähtien; ensin menestyvänä koruntekijänä, sitten menestyvänä maalarina.
   tunniste: tamminen
 
 - nimi: Jade Woods
-  tunniste: woods
-
+  syntymavuosi:
+  esittely:
+  tunniste: woods 

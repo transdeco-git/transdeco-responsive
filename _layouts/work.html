@@ -2,33 +2,33 @@
 layout: default
 ---
 
+{% comment %}
 {% assign work = page.url %}
 {% assign work = work | slice: 7, 40 %}
-
 {% assign teos=site.data.works | where:"tunniste", work  %}
 {% for artist in site.data.artists %}
   {% if artist.tunniste==teos[0].tait_tunniste %}
     {% assign taiteilija = artist.nimi %}
   {% endif %}
 {% endfor %}
-
 <div style="text-align:left">
 Taiteilija: {{ taiteilija }}<br>
 Tuotenumero: {{ teos[0].tuotenumero }}<br>
 Teosnimi: {{ teos[0].teosnimi }}<br>
-Hinta: {{ teos[0].hinta }} &eur;<br>
+Hinta: {{ teos[0].hinta }} &euro;<br>
 Korkeus: {{ teos[0].korkeus }}<br>
 Leveys: {{ teos[0].leveys }}<br>
 Tekniikka: {{ teos[0].tekniikka }}<br>
 Valmistumisvuosi {{ teos[0].valmistumisvuosi }}<br>
 Vedosmäärä: {{ teos[0].vedosmaara }}
 </div>
+{% endcomment %}
 
-{% comment %}
 {% assign work = page.url %}
 {% assign work = work | slice: 7, 40 %}
 {% assign teos=strapi.collections.works | where:"tunniste", work  %}
-{% for artist in site.data.artists %}
+
+{% for artist in site.data.names %}
   {% if artist.tunniste==teos[0].tait_tunniste %}
     {% assign taiteilija = artist.nimi %}
   {% endif %}         
@@ -46,4 +46,4 @@ Tekniikka: {{ teos[0].tekniikka }}<br>
 Valmistumisvuosi {{ teos[0].valmistumisvuosi }}<br>
 Vedosmäärä: {{ teos[0].vedosmaara }}
 </div>
-{% endcomment %}
+

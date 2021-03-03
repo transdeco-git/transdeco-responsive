@@ -41,7 +41,7 @@ a:active {
 <div class="table-responsive">
   <table class="table center table-sm">
   {% tablerow artist in artists cols:6 %}
-    <a href="/artists/{{ artist.tunniste }}.html">{{ artist.etunimi }}&nbsp;{{ artist.sukunimi }}</a>
+    <a href="/artists/{{ artist.tunniste }}.html">{{ artist.nimi }}</a>
   {% endtablerow %}
   </table>
 </div>
