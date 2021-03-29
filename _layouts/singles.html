@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign single = page.url %}
+{% assign single = single | slice: 1, 40 %}
+
+{% assign current = strapi.collections.singles | where:"tunniste", single %}
+<h1>{{ current[0].otsikko }}</h1>
+<div>
+  {{ current[0].teksti }}
+</div>
+
+<!-- Include -->
+{% if single == "taiteilijat" %}
+  {% include /singles/taiteilijat.html %}
+{% endif %}

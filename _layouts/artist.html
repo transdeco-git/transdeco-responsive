@@ -31,7 +31,7 @@ a:active {
 
 {% assign taiteilijat=strapi.collections.artists | where:"tunniste", artist %}
 {% for taiteilija in taiteilijat %}
-  <h1>{{ taiteilija.nimi }}, (s. {{ taiteilija.syntymavuosi }})</h1>
+  <h1>{{ taiteilija.etunimi }}&nbsp;{{ taiteilija.sukunimi }}, (s. {{ taiteilija.syntymavuosi }})</h1>
   <div>
   {{ taiteilija.esittely }}
   </div>

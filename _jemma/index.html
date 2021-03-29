@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<h1>Transdeco - Galleria ja Verkkokauppa</h1>
+<p class="lead">Aloitussivu</p>
+
+<style>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  text-align: left;
+  padding-right: 25px;
+}
+
+/* Links */
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ad1216;
+}
+
+a:active {
+  text-decoration: none;
+  color: #000000;
+}
+</style>
+
+<div>
+Tervetuloa taidegrafiikkagalleriaan
+</div>
+
+<div>
+Taidegrafiikka on oleellinen osa modernia sisustamista ja tilankäyttöä sekä ainutlaatuinen 
+ja persoonallinen lahja. Sivuiltamme löydät laajan valikoiman korkealaatuista taidegrafiikkaa 
+kohtuuhintaan. Taiteilijoidemme käyttämät eri vedostusmenetelmät ovat mm. etsaus, litografia 
+ja serigrafia.Transdeco Oy on vuonna 1984 perustettu, taidegrafiikkaan erikoistunut yritys. 
+Alusta alkaen olemme olleet mukana järjestämässä edustamiemme kansainvälisten ja kotimaisten 
+taiteilijoiden näyttelyitä, yhteistyössä monien nimekkäiden gallerioiden kanssa. Kustannamme 
+useiden tunnettujen nykytaiteilijoiden grafiikkaa, etsauksia, litografioita ja serigrafioita. 
+Työt vedostetaan taiteilijoiden valvonnassa, Suomessa ja ulkomailla.
+</div>
+
+{% assign artists = strapi.collections.artists | sort:"tunniste" %}
+<div class="table-responsive">
+  <table class="table center table-sm">
+  {% tablerow artist in artists cols:6 %}
+    <a href="/artists/{{ artist.tunniste }}.html">{{ artist.etunimi }}&nbsp;{{ artist.sukunimi }}</a>
+  {% endtablerow %}
+  </table>
+</div>
+

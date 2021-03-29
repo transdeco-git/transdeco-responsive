@@ -1,0 +1,8 @@
+{% assign artists = strapi.collections.artists | sort:"tunniste" %}
+<div class="table-responsive">
+  <table class="table center table-sm">
+  {% tablerow artist in artists cols:6 %}
+    <a href="/artists/{{ artist.tunniste }}.html">{{ artist.etunimi }}&nbsp;{{ artist.sukunimi }}</a>
+  {% endtablerow %}
+  </table>
+</div>

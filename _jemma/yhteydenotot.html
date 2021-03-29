@@ -5,3 +5,8 @@ layout: default
 
 <h1>Transdeco - Galleria ja Verkkokauppa</h1>
 <p class="lead">Yhteydenotot</p>
+
+{% assign contact = strapi.collections.contact %}
+<h1>{{ contact[0].otsikko }}</h1>
+<div>
+{{ contact[0].teksti }}

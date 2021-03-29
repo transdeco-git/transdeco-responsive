@@ -1,0 +1,17 @@
+---
+permalink: /home/
+layout: default
+---
+
+<h1>Transdeco - Galleria ja Verkkokauppa</h1>
+<p class="lead">Home</p>
+
+{% assign home = strapi.collections.homes %}
+1. {{ home[0].tunniste }}<br>
+2. {{ home.tunniste }} - Ei toimi<br>
+3. {{ home[1].tunniste }}<br>
+4. 
+{% for h in home %}
+ {{ h.tunniste }}
+{% endfor %}<br>
+5. {{ page.url }}

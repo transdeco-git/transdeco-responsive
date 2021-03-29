@@ -29,9 +29,9 @@ plugins:
 collections_dir: collections
 collections:
   animals:
-    output: true
     permalink: animals/:name
     layout: animal
+    output: true
 
 # Strapi
 strapi:
@@ -39,13 +39,20 @@ strapi:
   endpoint: http://localhost:1337
   #endpoint: https://strapi.transdeco.fi
   collections:
+
+    # Collections
     artists:
       type: artists
-      permalink: artists/:tunniste
+      permalink: /artists/:tunniste
       layout: artist.html
       output: true
     works:
       type: works
-      permalink: works/:tunniste
+      permalink: /works/:tunniste
       layout: work.html
+      output: true
+    singles:
+      type: singles
+      permalink: /:tunniste
+      layout: singles.html
       output: true
