@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'jekyll', '~> 4.2'
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"  # Latest: 0.15.1
   gem "jekyll-strapi", "~> 0.1"  # Latest: 0.1.3

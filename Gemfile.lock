@@ -82,6 +82,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  jekyll (~> 4.2)
   jekyll-feed (~> 0.15)
   jekyll-strapi (~> 0.1)
   jekyll-watch
