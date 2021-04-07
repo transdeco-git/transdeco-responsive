@@ -2,13 +2,13 @@
   url: /
 
 - name: Taiteilijat
-  url: /taiteilijat/
+  url: /taiteilijat.html
 
 - name: Tilaaminen
-  url: /tilaaminen/
+  url: /tilaaminen.html
 
 - name: Galleria
-  url: /galleria/
+  url: /galleria.html
 
 - name: Yhteydenotot
-  url: /yhteydenotot/
+  url: /yhteydenotot.html
