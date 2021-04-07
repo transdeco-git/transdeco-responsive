@@ -1,15 +1,35 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: Jekyll Actions
 
 on:
-  push:
-    branches:
-      - master
+  push
 
 jobs:
-  github-pages:
-    runs-on: ubuntu-latest
+  jekyll:
+    runs-on: ubuntu-16.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+    - uses: actions/checkout@v2
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    # Standard usage
+    - uses:  helaili/jekyll-action@2.2.0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    # Specify the Jekyll source location as a parameter
+    - uses: helaili/jekyll-action@2.2.0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_src: 'transdeco-git.github.io'
+
+    # Specify the target branch (optional)
+    - uses: helaili/jekyll-action@2.2.0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'
